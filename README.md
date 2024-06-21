@@ -4,6 +4,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo.svg?style=flat&logo=github)
 ![License](https://img.shields.io/github/license/your-username/your-repo.svg?style=flat&logo=github)
 
+![Capture d’écran 2024-06-21 140948](https://github.com/Stake-Predictor-IW/Stake-mines-predictor/assets/173465741/66df0ffc-5d61-4fbf-9d49-c9a7edb18692)
+
 ## Overview
 
 Mines-Bot Predictor est un outil logiciel conçu pour prédire les mines sur le célèbre site de casino Stake . Cet outil est destiné à aider les utilisateurs à prendre des décisions éclairées lorsqu'ils participent à des activités de jeu sur Mines-Bot.
